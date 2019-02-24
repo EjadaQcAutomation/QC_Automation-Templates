@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used to view records with ViewYes flag in data excel file</description>
+   <name>TC_View_Records</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc0dfcfc-6504-4399-91e2-9f91ae8f8feb</testCaseGuid>
+</TestCaseEntity>

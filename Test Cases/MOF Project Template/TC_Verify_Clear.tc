@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used for verifing clear action</description>
+   <name>TC_Verify_Clear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dcc5138-94a8-44f7-b7d8-1c97b540a335</testCaseGuid>
+</TestCaseEntity>

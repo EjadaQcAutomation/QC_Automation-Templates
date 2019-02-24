@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used to ensure that all inserted records are inserted successfully</description>
+   <name>TC_Verify_Insert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>513ed476-f410-4af1-8886-1ccff36ed507</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used to verify deleted and undeleted records</description>
+   <name>TC_Verify_Delete and Undelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4ff2a33-8f7e-4a38-809b-4e79bd68b125</testCaseGuid>
+</TestCaseEntity>

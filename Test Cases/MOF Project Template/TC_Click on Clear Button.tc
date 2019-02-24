@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used for doing clear action</description>
+   <name>TC_Click on Clear Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9efe304-f2cb-4b08-be05-9c888a39b303</testCaseGuid>
+</TestCaseEntity>

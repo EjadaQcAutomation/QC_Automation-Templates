@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used to click on  Search button</description>
+   <name>TC_Click on Search Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e419073a-c519-4026-89a5-7c37a19e13f6</testCaseGuid>
+</TestCaseEntity>
